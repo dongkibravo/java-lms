@@ -8,6 +8,7 @@ import java.time.LocalDate;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class SessionTest {
+
     @Test
     @DisplayName("강의 모집중 등록 테스트")
     public void sessionStatusRegisterTest() {
